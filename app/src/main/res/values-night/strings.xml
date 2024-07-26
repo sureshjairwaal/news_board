@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="functionality_not_implemented_yet">Functionality not implemented yet.</string>
+    <string name="api_key_message">Please find the api key in the email and add the api key in the build.gradle. Since the project is shared in public repository, Key needs to be secured.</string>
+</resources>
